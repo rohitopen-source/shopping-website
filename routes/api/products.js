@@ -20,7 +20,7 @@ route.post('/',(req,res) => {
             error: "price is not a valid number"
         })
     }
-    
+    f
     Product.create({
         name: req.body.name,
         manufacturer: req.body.manufacturer,
