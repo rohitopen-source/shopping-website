@@ -1,0 +1,6 @@
+$(function (){
+
+     $('#btnProductAdd').click(function (){
+         
+     })
+})
